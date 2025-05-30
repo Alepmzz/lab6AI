@@ -53,7 +53,7 @@ function App() {
         </button>
       </form>
 
-      {/* Respuesta del modelo */}
+
       <h3 style={{ marginTop: 24 }}>Answer:</h3>
       <p>{answer}</p>
     </main>
